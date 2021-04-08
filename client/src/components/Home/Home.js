@@ -6,6 +6,7 @@ function Home() {
     <div>
         <h1>Welcome to my disney experience</h1>
         <p>currently under construction</p>
+        <p>test</p>
     </div>
     )
 }
